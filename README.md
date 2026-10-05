@@ -4,6 +4,11 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 [![Made with](https://img.shields.io/badge/made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+---
+
+[![Download for Windows](https://img.shields.io/badge/download-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/damirus-papirus/stegan0/releases/latest/download/stegan0.exe)
+[![Download for Windows (CLI)](https://img.shields.io/badge/download-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/damir/stegan0/releases/latest/download/stegan0-cli.exe)
+
 **PNG steganography with AES-GCM encryption.**
 
 `stegan0` hides arbitrary files inside PNG images so that visually they remain unchanged. Before embedding, data is encrypted with a password, and bits are scattered across the entire image in a pseudorandom order — without the password, extraction is impossible.
