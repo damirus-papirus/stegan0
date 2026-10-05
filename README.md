@@ -4,10 +4,10 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 [![Made with](https://img.shields.io/badge/made%20with-Python-1f425f.svg)](https://www.python.org/)
 
----
-
 [![Download for Windows](https://img.shields.io/badge/download-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/damirus-papirus/stegan0/releases/latest/download/stegan0.exe)
-[![Download for Windows (CLI)](https://img.shields.io/badge/download-Windows-blue?logo=windows&style=for-the-badge)](https://github.com/damir/stegan0/releases/latest/download/stegan0-cli.exe)
+[![Download for Windows (CLI)](https://img.shields.io/badge/download-Windows_(CLI)-blue?logo=windows&style=for-the-badge)](https://github.com/damir/stegan0/releases/latest/download/stegan0-cli.exe)
+
+---
 
 **PNG steganography with AES-GCM encryption.**
 
